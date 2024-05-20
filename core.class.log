@@ -1,0 +1,38 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5F8D10A756FCB314A8',
+    participant: undefined
+  },
+  messageTimestamp: 1716208041,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuanto consumi estos ultimos dias?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuanto consumi estos ultimos dias?',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_95a365dc-fcb1-4720-9a6e-7edd37548347',
+  keyword: 'key_688d3433-e0b2-4919-a948-c827fae24f6b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a31c74792e311daba7c15a8eb8ced2c6'
+}

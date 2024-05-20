@@ -1,0 +1,4 @@
+bot_sessions
+node_modules
+.env
+google.json
